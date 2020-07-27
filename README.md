@@ -1,1 +1,52 @@
+<img src= "https://res.cloudinary.com/chidibede/image/upload/v1595876786/banner.png" height="400" width="1400"></img>
+<br>
+<br>
+Welcome to my GitHub! I'm Chidi Bede, a Chemical Engineering graduate who's transitioning into Software Engineering. Through self-study and programming internships, I am building a solid foundation in both Backend and Data science technologies and Languages. I have one year working experience with the following backend technologies:
+- Node Js
+- Express Js
+- GraphQL Apollo Server
+- JavaScript
+- TypeScript
+- PostgreSQL
+- MongoDB
+- Django
+- Python
+- REST APIs
 
+### ⚡ Relevant achievements
+- Awarded HNG Tech Intern's Certificate for Machine Learning 
+- Awarded FreeCodeCamp APIs and Microservices Backend Certificates for Completing Backend Projects 
+- Awarded Data Science Module 1 certificate from WorldQuant University
+
+### 💡 Completed and Hosted Projects
+- A Point Of Sale web App built using django for backend and bootstrap for frontend
+  - link: <a href = "https://djangopos.herokuapp.com/">POS APP</a> 
+- Machine Learning Apis for a blog project
+  - link: <a href = "https://lucidblogapis.herokuapp.com/">ML APIs</a> 
+
+### ✔️ I'm currently Perfecting my skills on
+- GraphQL Apollo Server
+- Lambda Serverless
+
+### 👩‍💻 I'm working on
+- Upath's SharpStudy App as a Backend Intern
+- Building side projects using nodejs, express, typescript, javascript, postgresql and graphql apollo server to perfect my backend skills
+
+
+### 💡 Goals for 2020
+- Complete #100DaysOfCode challenge
+- Build 30+ backend projects 
+- Become an expert in Backend
+
+
+### 🌴 Fun facts
+- I Love learning, hence my love for understanding different technologies as a hobby 
+- I am a game lover
+
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/chidibede/">My Linkedin Profile</a>
+- Twitter: <a href = "https://twitter.com/marshalbede">My Twitter</a>
+
+<br>
+<br>
+From chidibede (https://github.com/chidibede)

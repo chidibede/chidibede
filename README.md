@@ -1,4 +1,4 @@
-<img src= "https://res.cloudinary.com/chidibede/image/upload/v1595876786/banner.png" height="400" width="1400"></img>
+<img src= "https://res.cloudinary.com/chidibede/image/upload/v1595876786/banner.png"></img>
 <br>
 <br>
 Welcome to my GitHub! I'm Chidi Bede, a Chemical Engineering graduate who's transitioning into Software Engineering. Through self-study and programming internships, I am building a solid foundation in both Backend and Data science technologies and Languages. I have one year working experience with the following backend technologies:

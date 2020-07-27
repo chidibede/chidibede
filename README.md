@@ -20,9 +20,9 @@ Welcome to my GitHub! I'm Chidi Bede, a Chemical Engineering graduate who's tran
 
 ### 💡 Completed and Hosted Projects
 - A Point Of Sale web App built using django for backend and bootstrap for frontend
-  - link: <a href = "https://djangopos.herokuapp.com/">POS APP</a> 
+  - link: <a href = "https://djangopos.herokuapp.com/" target="_blank">POS APP</a> 
 - Machine Learning Apis for a blog project
-  - link: <a href = "https://lucidblogapis.herokuapp.com/">ML APIs</a> 
+  - link: <a href = "https://lucidblogapis.herokuapp.com/" target="_blank">ML APIs</a> 
 
 ### ✔️ I'm currently Perfecting my skills on
 - GraphQL Apollo Server
@@ -44,8 +44,8 @@ Welcome to my GitHub! I'm Chidi Bede, a Chemical Engineering graduate who's tran
 - I am a game lover
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/chidibede/">My Linkedin Profile</a>
-- Twitter: <a href = "https://twitter.com/marshalbede">My Twitter</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/chidibede/" target="_blank">My Linkedin Profile</a>
+- Twitter: <a href = "https://twitter.com/marshalbede" target="_blank">My Twitter</a>
 
 <br>
 <br>

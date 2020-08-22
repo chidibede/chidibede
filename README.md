@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm Chidi Bede, a Chemical Engineering graduate who's tran
 
 ### ✔️ I'm currently Perfecting my skills on
 - GraphQL Apollo Server
-- Lambda Serverless
+- Rust Programming
 
 ### 👩‍💻 I'm working on
 - Upath's SharpStudy App as a Backend Intern
@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm Chidi Bede, a Chemical Engineering graduate who's tran
 
 
 ### 💡 Goals for 2020
-- Complete #100DaysOfCode challenge
+- Build at least 2 projects using Rust
 - Build 30+ backend projects 
 - Become an expert in Backend
 

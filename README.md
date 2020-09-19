@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Chidi Bede, a Chemical Engineering graduate who's tran
 - Python
 - REST APIs
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chidibede)](https://github.com/chidibede/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chidibede&show_icons=true&theme=radical)](https://github.com/chidibede/github-readme-stats)
 
 ### ⚡ Relevant achievements
 - Awarded HNG Tech Intern's Certificate for Machine Learning 

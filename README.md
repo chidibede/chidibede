@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm Chidi Bede, a Chemical Engineering graduate who's tran
 - Rust Programming
 
 ### 👩‍💻 I'm working on
-- Upath's SharpStudy App as a Backend Intern
+- Upath's <a href='https://sharpstudy.io/'>SharpStudy App </a>
 - Building side projects using nodejs, express, typescript, javascript, postgresql and graphql apollo server to perfect my backend skills
 
 

@@ -19,30 +19,10 @@ Welcome to my GitHub! I'm Chidi Bede, a Software Engineer at <a href="https://tu
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chidibede&show_icons=true&theme=radical)](https://github.com/chidibede/github-readme-stats)
 
-### ⚡ Relevant achievements
-- Awarded HNG Tech Intern's Certificate for Machine Learning 
-- Awarded FreeCodeCamp APIs and Microservices Backend Certificates for Completing Backend Projects 
-- Awarded Data Science Module 1 certificate from WorldQuant University
-
-### 💡 Completed and Hosted Projects
-- A Point Of Sale web App built using django for backend and bootstrap for frontend
-  - link: <a target="_blank" rel="noopener noreferrer" href = "https://djangopos.herokuapp.com/">POS APP</a> 
-- Machine Learning Apis for a blog project
-  - link: <a target="_blank" rel="noopener noreferrer" href = "https://lucidblogapis.herokuapp.com/">ML APIs</a> 
-
-### ✔️ I'm currently Perfecting my skills on
-- GraphQL Apollo Server
-- Rust Programming
-
 ### 👩‍💻 I'm working on
+- Creating the future in education technology with Tuteria
 - Upath's <a href='https://sharpstudy.io/'>SharpStudy App </a>
 - Building side projects using nodejs, express, typescript, javascript, postgresql and graphql apollo server to perfect my backend skills
-
-
-### 💡 Goals for 2020
-- Build at least 2 projects using Rust
-- Build 30+ backend projects 
-- Become an expert in Backend
 
 
 ### 🌴 Fun facts

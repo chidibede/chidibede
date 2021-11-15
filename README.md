@@ -29,10 +29,6 @@ Welcome to my GitHub! I'm Chidi Bede, a Software Engineer at <a href="https://tu
 - I Love learning, hence my love for understanding different technologies as a hobby 
 - I am a game lover
 
-### ☕ Get in touch
-- LinkedIn: <a target="_blank" rel="noopener noreferrer" href = "https://www.linkedin.com/in/chidibede/">My Linkedin Profile</a>
-- Twitter: <a target="_blank" rel="noopener noreferrer" href = "https://twitter.com/marshalbede">My Twitter</a>
-
 <br>
 <br>
 From chidibede (https://github.com/chidibede)

@@ -20,8 +20,7 @@ Welcome to my GitHub! I'm Chidi Bede, a Software Engineer. I am Chemical Enginee
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chidibede&show_icons=true&theme=radical)](https://github.com/chidibede/github-readme-stats)
 
 ### 👩‍💻 I'm working on
-- Creating the future in education technology
-- Upath's <a href='https://sharpstudy.io/'>SharpStudy App </a>
+- Creating the future in HR technology
 - Building side projects using nodejs, express, typescript, javascript, postgresql and graphql apollo server to perfect my backend skills
 
 
